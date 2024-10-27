@@ -1,0 +1,1 @@
+insert into pokemon_info(pokemon_id,pokemon_description,pokemon_name,pokemon_number,pokemon_species) values('032030ab-d33e-471c-b974-75d028f3c571','Pikachu is an Electric type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.','Pikachu','25','Mouse')
